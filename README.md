@@ -4,7 +4,7 @@
 
 ### Student | BITS Pilani, Hyderabad, India
 
-A passionate Electrical and Electronics Engineering student with hands-on experience in developing machine learning models and web applications. I have a strong foundation in data structures & algorithms and database systems, complemented by practical experience in deploying real-time applications.
+A passionate Electrical and Electronics Engineering student with hands-on experience in developing machine learning models and web applications. I have a strong foundation in data structures & algorithms, operating systems, machine learning and database systems, complemented by practical experience in deploying real-time applications.
 
 </div>
 
