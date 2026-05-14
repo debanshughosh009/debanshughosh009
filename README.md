@@ -4,7 +4,7 @@
 
 ### Student | BITS Pilani, Hyderabad, India
 
-Debanshu is a passionate Electrical and Electronics Engineering student with hands-on experience in developing machine learning models and web applications. He has a strong foundation in data structures, algorithms, and database systems, complemented by practical experience in deploying real-time applications.
+A passionate Electrical and Electronics Engineering student with hands-on experience in developing machine learning models and web applications. I have a strong foundation in data structures & algorithms and database systems, complemented by practical experience in deploying real-time applications.
 
 </div>
 
@@ -22,7 +22,7 @@ Debanshu is a passionate Electrical and Electronics Engineering student with han
 
 ### 🌱 Currently
 
-- 📚 Learning: **Machine Learning, Data Structures and Algorithms, Database Systems**
+- 📚 Learning: **Reinforcement Learning, Object-Oriented Programming in Java**
 - 🤝 Open to collaborate on: **Machine Learning projects, Web Application Development, Data Engineering**
 - 💬 Ask me about: **Machine Learning, Web Development, Data Analysis**
 
