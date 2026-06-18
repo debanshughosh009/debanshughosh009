@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,19&height=200&section=header&text=Debanshu%20Ghosh&fontSize=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,12,20&height=200&section=header&text=Debanshu%20Ghosh&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <div align="center">
 
