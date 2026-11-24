@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Incoming AI Intern @ Deutsche Bank | EEE Student @ BITS Pilani
+### Incoming AI Intern @ Deutsche Bank | B.E. in EEE @ BITS Pilani
 
 I build and validate production-grade ML systems and backend services. My work spans machine learning, model validation and AI governance, REST APIs with FastAPI, AWS and cloud infrastructure, and CI/CD, with a focus on shipping AI that is tested, reliable, and audit-ready. I'm also an active open-source contributor and maintainer.
 
