@@ -2,19 +2,9 @@
 
 <div align="center">
 
-### Student | BITS Pilani, Hyderabad, India
+### Incoming AI Intern @ Deutsche Bank | EEE Student @ BITS Pilani, Hyderabad
 
-A passionate Electrical and Electronics Engineering student with hands-on experience in developing machine learning models, backend sytems and cloud infrastructure. I have a strong foundation in data structures & algorithms, operating systems, machine learning and database systems, complemented by practical experience in deploying real-time applications.
-
-</div>
-
----
-
-### Tech Stack
-
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-333?style=for-the-badge&logo=c/c++&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-333?style=for-the-badge&logo=assembly&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-333?style=for-the-badge&logo=oraclesql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-333?style=for-the-badge&logo=pl/sql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-333?style=for-the-badge&logo=colab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-333?style=for-the-badge&logo=jupyter&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-333?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-333?style=for-the-badge&logo=matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-333?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Torchvision](https://img.shields.io/badge/Torchvision-333?style=for-the-badge&logo=torchvision&logoColor=white)
-
-
+I build and validate production-grade ML systems and backend services. My work spans machine learning, model validation and AI governance, REST APIs with FastAPI, AWS and cloud infrastructure, and CI/CD, with a focus on shipping AI that is tested, reliable, and audit-ready. I'm also an active open-source contributor and maintainer.
 
 </div>
 
@@ -22,9 +12,17 @@ A passionate Electrical and Electronics Engineering student with hands-on experi
 
 ### Currently
 
+- Incoming **AI Intern at Deutsche Bank**
+- Open-source contributor and maintainer
 - Learning: **Reinforcement Learning, Object-Oriented Programming in Java**
-- Open to collaborate on: **Machine Learning projects, Web Application Development, Data Engineering**
-- Ask me about: **Machine Learning, Web Development, Data Analysis**
+- Ask me about: **Machine Learning, Model Validation, Backend Development, Cloud Infrastructure, Open Source**
+- Open to collaborate on: **ML projects, AI evaluation tooling, backend, cloud and platform engineering, open-source**
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -33,12 +31,6 @@ A passionate Electrical and Electronics Engineering student with hands-on experi
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debanshughosh009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanshu-ghosh-ab8119288/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debanshughosh009)
-
-</div>
-
-
-
-<div align="center">
 
 </div>
 
